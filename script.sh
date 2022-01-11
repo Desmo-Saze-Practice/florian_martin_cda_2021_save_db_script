@@ -6,7 +6,7 @@
 # accorder les droits d'execution
 # chmod +x script.sh
 
-echo "début de la sauvegarde de notre application"
+echo "******** SCRIPT STARTING, GET ROLL MA MAN *********"
 
 mkdir backup
 
