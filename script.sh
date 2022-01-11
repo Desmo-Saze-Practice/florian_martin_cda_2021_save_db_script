@@ -7,6 +7,10 @@
 # chmod +x script.sh
 
 echo "******** SCRIPT STARTING, GET ROLL MA MAN *********"
+# une idée
+# if (!backup/) {
+#     mkdir backup
+# }
 
 mkdir backup
 
@@ -18,3 +22,4 @@ zip -r data.zip backup
 
 # pour mettre fin a notre script
 exit
+
