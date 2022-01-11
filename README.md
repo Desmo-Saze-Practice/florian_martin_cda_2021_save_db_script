@@ -1,1 +1,1 @@
-simple script to save our database and website
+# A simple script to save our database and website
